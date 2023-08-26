@@ -43,7 +43,7 @@ Run the script with desired options from the command line:
 ### Julia Set
 
 ```bash
-fractal_explorer.exe --julia --resolution=1000,100 --julia --julia_c=0.355+0.355j
+fractal_explorer.exe --resolution=1000,100 --julia --julia_c=0.355+0.355j
 ```
 
 ![Julia Sample](img/julia_sample.png)
